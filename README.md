@@ -45,4 +45,4 @@ Khi có phiên bản mới, ứng dụng sẽ hỏi bạn có muốn tải bản
 
 Khi cần hỗ trợ, hãy gửi ảnh chụp màn hình ứng dụng kèm mô tả ngắn tình huống bạn gặp phải.
 
-Credit: Đố biết tao là ai =))
+Credit: DogGoldVN
