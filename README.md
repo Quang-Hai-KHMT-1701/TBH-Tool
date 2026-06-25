@@ -12,30 +12,6 @@ TaskbarHero Drop Tool giúp xem trước danh sách vật phẩm trong rương v
 
 Sau lần kích hoạt đầu tiên, ứng dụng sẽ tự ghi nhớ key trên máy hiện tại. Những lần mở sau bạn không cần nhập lại key nếu key vẫn còn hợp lệ.
 
-## Tính năng chính
-
-- Xem danh sách vật phẩm trong `Rương thường` và `Rương boss`.
-- Đánh dấu vật phẩm đã nhận sau khi rương được mở.
-- Theo dõi vật phẩm cần tìm và nhận thông báo khi xuất hiện.
-- Lọc hoặc ẩn vật phẩm theo độ hiếm.
-- Chọn ngôn ngữ hiển thị tên vật phẩm.
-- Tùy chỉnh kích thước chữ và bố cục danh sách rương.
-- Tự kiểm tra phiên bản mới khi khởi động.
-
-## Theo dõi vật phẩm
-
-1. Gõ tên vật phẩm vào ô `Theo dõi`.
-2. Chọn vật phẩm từ danh sách gợi ý.
-3. Bấm `+` để thêm vào danh sách theo dõi.
-
-Khi vật phẩm được theo dõi xuất hiện trong danh sách rương, ứng dụng sẽ hiển thị thông báo và phát âm thanh nếu thông báo đang bật.
-
-## Cập nhật ứng dụng
-
-Khi có phiên bản mới, ứng dụng sẽ hỏi bạn có muốn tải bản cập nhật không. Nếu chọn cập nhật, trình duyệt sẽ mở trang tải phiên bản mới.
-
-## Lưu ý
-
 - Hãy mở game trước khi bấm `Bật`.
 - Nếu ứng dụng không kết nối được, hãy tắt rồi mở lại cả game và tool.
 - Không đổi tên file exe nếu bạn không chắc chắn.
